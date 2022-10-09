@@ -8,3 +8,5 @@ This line is modified manually during conflict resolution
 New line is added locally
 
 Again another local change 2
+
+Again another local change 3
