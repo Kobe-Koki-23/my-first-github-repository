@@ -10,3 +10,5 @@ New line is added locally
 Again another local change 2
 
 Again another local change 3
+
+changes in feature-2 
